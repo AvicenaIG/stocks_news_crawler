@@ -1,7 +1,4 @@
 # stocks_news_crawler
-Mendapatkan berita yang berkaitan dengan saham
-
-
 
 
 Masalah yang ingin diselesaikan:
